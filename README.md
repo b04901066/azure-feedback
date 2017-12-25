@@ -20,5 +20,5 @@ http://hungguo.blogspot.tw/2016/06/mapi.html?view=sidebar    
 
 * 介面    
 
-![Alt text](/path/to/儀錶板.png)
+![Azure儀錶板](https://github.com/b04901066/azure-feedback/blob/master/儀錶板.png)
 
