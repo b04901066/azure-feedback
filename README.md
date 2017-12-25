@@ -7,7 +7,8 @@
 所以教授就介紹我和組員使用azure的雲端服務，  
 [vision]: https://azure.microsoft.com/zh-tw/services/cognitive-services/computer-vision/  "computer-vision"
 主要是使用[電腦視覺][vision]API。  
-> -----------------------------------------------  
+> -----------------------------------------------    
+
 而這學期是修李弘毅教授開的MLDS，  
 主要使用的是ubuntu虛擬機，  
 因為機器學習需要運算能力強大的GPU。  
