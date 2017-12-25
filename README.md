@@ -7,7 +7,8 @@
 並且需要在極短的時間內就有個可以demo的版本，      
 所以教授就介紹我和組員使用azure的雲端服務，     
 [電腦視覺]: https://azure.microsoft.com/zh-tw/services/cognitive-services/computer-vision/  "computer-vision"    
-主要是使用 [電腦視覺] computer-vision API 。    
+[電腦視覺] 
+主要是使用 computer-vision API 。    
 因為是教授推廣配額，所以不需要花到一毛錢，    
 不過其實這個服務的免費版本就很夠用了。     
 > -----------------------------------------------      
@@ -23,3 +24,5 @@ azure提供配備次伺服器專用的 [nVIDIA Tesla-K80] ，    
 * 使用
 
 
+[Google]: http://google.com/
+[Google][]
