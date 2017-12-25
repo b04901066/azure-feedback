@@ -1,6 +1,6 @@
 # Azure 使用心得 azure-feedback    
 [Azure]: https://portal.azure.com/
-## [Azure][]     
+## [Azure主頁][Azure]     
 
 * 各種課程上的應用     
 
