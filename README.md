@@ -24,4 +24,8 @@ http://hungguo.blogspot.tw/2016/06/mapi.html?view=sidebar    
 可自訂自己習慣的控制面板，十分方便
 
 ![Azure主頁](https://github.com/b04901066/azure-feedback/blob/master/主頁面.png)
-可快速新建任何資源
+可快速新建任何資源，右上角可顯示通知，以及切換使用者目錄
+
+### 微軟成功將各種前後端工作整合在一個介面
+## 讓企業或個人可以用合理的價格快速建立、提供服務
+# 總而言之就是讚
