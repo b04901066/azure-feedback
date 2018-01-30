@@ -11,7 +11,7 @@ http://hungguo.blogspot.tw/2016/06/mapi.html?view=sidebar    
 主要是使用[computer-vision](https://azure.microsoft.com/zh-tw/services/cognitive-services/computer-vision/ "computer-vision") API 電腦視覺。因為是教授推廣配額，所以不需要花到一毛錢，不過其實這個服務的免費版本就很夠用了。     
 > -------------------------------------------------------------------------------------------------------------------------------------      
 
-    而這學期是修李弘毅教授開的MLDS，主要使用的是ubuntu虛擬機，因為機器學習需要運算能力強大的GPU。azure提供配備伺服器專用的 [nVIDIA Tesla-K80](http://www.nvidia.com.tw/object/tesla-servers-tw.html)虛擬機，讓我可以順利完成hw1和hw2，同樣不需要花到一毛錢(課程贊助)，不過若是實際自費還是挺貴的(對個人而言)。    
+    而這學期是修李宏毅教授開的MLDS，主要使用的是ubuntu虛擬機，因為機器學習需要運算能力強大的GPU。azure提供配備伺服器專用的 [nVIDIA Tesla-K80](http://www.nvidia.com.tw/object/tesla-servers-tw.html)虛擬機，讓我可以順利完成hw1和hw2，同樣不需要花到一毛錢(課程贊助)，不過若是實際自費還是挺貴的(對個人而言)。    
 
 ### 使用 ###
     現在微軟已經將全部的服務都整合到[Azure][]，因此要使用只要先註冊帳戶，再依照需求新建資源即可，基本上都是隨便按幾個按鈕就可以架設好資源，要用的時候可能只需要一個金鑰或密碼即可，code部分主要是用json包訊息，只要隨便搜索一下,便可找到協助快速上手的範例程式，並且支援多種語言。       
